@@ -1,5 +1,5 @@
 name: Wikihub Jekyll Collaborative Example
-baseurl: '/jekyll-collab'
-owner: wiki-hub
-repo: jekyll-collab
+baseurl: '/collab'
+owner: hyip
+repo: collab
 branch: gh-pages
